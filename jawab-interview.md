@@ -25,7 +25,9 @@ Godot (aplikasi yang digunakan untuk mengembangkan game 2 & 3D)
 - Menantang.
 - Menyenangkan.
 - Inspirasi design:
-- ![contoh](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a&index=1)
+- ![abc](https://img.itch.zone/aW1hZ2UvNzY2MzE2LzQ4Mjg2MDUucG5n/original/VNLNvM.png)
+- ![abc](https://www.thegamecrater.com/wp-content/uploads/2020/12/Bright-Lancer-Screenshot-1-1.jpg)
+
 
 ## 2. User Story
 
