@@ -17,10 +17,15 @@ Godot (aplikasi yang digunakan untuk mengembangkan game 2 & 3D)
 2. Tagline: Petualangan akan membuatmu gila.
 3. Campign: Membuat aplikasi yang dimana user mendapatkan pengalaman berpetualang yang seru dan menegangkan.
 4. Target user:
-- Seseorang yang senang berpetualang.
 - Usia 10+
+- Seseorang yang senang berpetualang.
 - Seseorang yang berani menyelesaikan tantangan.
-- Seseorang yang
+- Seseorang yang merasa tertantang untuk mengalahkan para monster.
+5. User Experience Theme:
+- Menantang.
+- Menyenangkan.
+- Inspirasi design:
+- ![contoh](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a&index=1)
 
 ## 2. User Story
 
