@@ -35,7 +35,7 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 
 
 ## 3. Struktur Data
-```
+```mermaid
 ---
 title: Order example
 ---
