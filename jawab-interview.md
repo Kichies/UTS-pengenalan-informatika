@@ -51,7 +51,7 @@ title: Struktur Data
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart TD
-    id1(Start) --> Stop
+    id1(Database: PostgreSQL) --> id2(Aplikasi Web Backend: JavaScript - Express.js) --> id3(Web Server: JavaScript - Express.js) --> id4(Aplikasi Android & iPhone: Godot dan lainnya)
 ```    
 
 ## 5. Teknologi, Library, dan Framework
