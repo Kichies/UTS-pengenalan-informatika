@@ -37,11 +37,11 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 ## 3. Struktur Data
 ```mermaid
 ---
-title: Order example
+title: Struktur Data
 ---
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
+    Pengguna ||--o{ ORDER : places
+    Pengguna {
         string name
         string custNumber
         string sector
