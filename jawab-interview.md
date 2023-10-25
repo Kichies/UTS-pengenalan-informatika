@@ -46,23 +46,6 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 ---
 title: Struktur Data
 ---
-erDiagram
-    Pengguna ||--o{ ORDER : places
-    Pengguna {
-        string name
-        string custNumber
-        string sector
-    }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
-    }
-    LINE-ITEM {
-        string productCode
-        int quantity
-        float pricePerUnit
-    }
 ```
 
 ## 4. Arsitektur Sistem
