@@ -51,7 +51,7 @@ title: Struktur Data
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart TD
-    Start --> Stop
+    id1(Start) --> Stop
 ```    
 
 ## 5. Teknologi, Library, dan Framework
