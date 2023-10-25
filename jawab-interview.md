@@ -36,10 +36,10 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 
 ## 3. Struktur Data
 
-```
 ---
 title: Order example
 ---
+```
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
