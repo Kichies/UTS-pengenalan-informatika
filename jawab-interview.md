@@ -39,7 +39,6 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 ---
 title: Order example
 ---
-```
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
@@ -57,7 +56,7 @@ erDiagram
         int quantity
         float pricePerUnit
     }
-```
+
 
 ## 4. Arsitektur Sistem
 
