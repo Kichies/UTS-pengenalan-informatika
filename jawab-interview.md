@@ -35,7 +35,7 @@ Pengguna | Menyimpan progress game | Bisa melanjutkan game dari terakhir kali me
 
 
 ## 3. Struktur Data
-
+```
 ---
 title: Order example
 ---
@@ -56,7 +56,7 @@ erDiagram
         int quantity
         float pricePerUnit
     }
-
+```
 
 ## 4. Arsitektur Sistem
 
