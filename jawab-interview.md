@@ -8,7 +8,7 @@ Dari pemaparan di atas, penulis memutuskan untuk mengembangkan sebuah aplikasi g
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Game Crazy Adventure merupakan game tentang sebuah karakter yang bernama toby sang rubah yang dimana dia menyelesaikan misi dan menjelajahi dunia untuk membasmi monster di seluruh penjuru dunia dengan tujuan menciptakan kembali dunia yang aman untuk ditinggali. Game ini merupakan 2D pixel art games.
+Game Crazy Adventure merupakan game tentang sebuah karakter yang bernama toby yang dimana dia menyelesaikan misi dan menjelajahi dunia untuk membasmi monster di seluruh penjuru dunia dengan tujuan menciptakan kembali dunia yang aman untuk ditinggali. Game ini merupakan 2D pixel art games.
 
 ## 1.3. Branding
 
