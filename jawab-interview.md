@@ -20,7 +20,7 @@ Game Crazy Adventure merupakan game tentang sebuah karakter yang bernama toby ya
 - Usia 10+
 - Seseorang yang senang berpetualang.
 - Seseorang yang berani menyelesaikan tantangan.
-- Seseorang pencinta pixel art game.
+- Seseorang penggemar 2D pixel art.
 5. User Experience Theme:
 - Menantang.
 - Menyenangkan.
