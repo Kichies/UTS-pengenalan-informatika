@@ -8,13 +8,13 @@ Dari pemaparan di atas, penulis memutuskan untuk mengembangkan sebuah aplikasi g
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Game Crazy Adventure merupakan game tentang sebuah karakter yang bernama toby sang rubah yang dimana dia menjelajahi dunia untuk membasmi monster di seluruh penjuru dunia dengan tujuan menciptakan kembali dunia yang aman untuk ditinggali. Game ini merupakan 2D pixel art games.
+Game Crazy Adventure merupakan game tentang sebuah karakter yang bernama toby sang rubah yang dimana dia menyelesaikan misi dan menjelajahi dunia untuk membasmi monster di seluruh penjuru dunia dengan tujuan menciptakan kembali dunia yang aman untuk ditinggali. Game ini merupakan 2D pixel art games.
 
 ## 1.3. Branding
 
 *Branding* meliputi:
 1. Merk: Crazy Adventure.
-2. Tagline: Petualangan akan membuatmu gila.
+2. Tagline: Petualangan yang akan membuatmu gila.
 3. Campign: Membuat aplikasi yang dimana user mendapatkan pengalaman berpetualang yang seru dan menegangkan.
 4. Target user:
 - Usia 10+
@@ -56,7 +56,7 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-Godot, dan lainnya.
+Godot aplikasi pembuat game 2D dan 3D.
 
 ## 6. Desain User Experience dan User Interface
 
